@@ -83,7 +83,7 @@ Feature scaling significantly impacts algorithms like:
 ## 📝 How to Run
 
 ```bash
-git clone https://github.com/yourusername/social-network-ads-analysis.git
+git clone
 cd social-network-ads-analysis
 jupyter notebook feature_scaling_analysis.ipynb
 ```
